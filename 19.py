@@ -1,5 +1,6 @@
 Program No. : 19
       Program : Calculate the sum of first and last digit of given 4 bit number
+
 def sum_first_last_digit():
     print("--- First & Last Digit Sum (4-Digit Number) ---")
 
